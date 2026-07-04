@@ -37,6 +37,18 @@ p, a, h1, h2, h3, h4, h5, label, button {
   justify-content: space-between;
   background-color: #0d1116;
 
+  .nav-logo {
+    height: 36px;
+    width: 36px;
+    object-fit: contain;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+
+    &:hover {
+      transform: scale(1.15);
+    }
+  }
+
   button {
     font-size: 1.1rem;
     font-family: "Lato", sans-serif;
