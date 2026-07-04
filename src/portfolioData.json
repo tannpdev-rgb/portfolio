@@ -1,0 +1,109 @@
+{
+  "main": {
+    "name": "Nguyen Phuong Tan",
+    "role": "Full Stack Engineer",
+    "avatar": "https://i.pinimg.com/736x/32/c1/4c/32c14c1fae32437ddea86be54dddcc27.jpg",
+    "github": "https://github.com/10102004tan",
+    "linkedin": "https://www.linkedin.com/in/10102004tan"
+  },
+  "expertise": [
+    {
+      "icon": "faReact",
+      "title": "Full Stack Web Development",
+      "description": "Experienced in building responsive web applications and RESTful APIs using modern frameworks. Proficient in both frontend and backend development across the full software development lifecycle.",
+      "skills": [
+        "React",
+        "Node.js",
+        "Spring Boot",
+        "TypeScript",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "PostgreSQL",
+        "MongoDB"
+      ]
+    },
+    {
+      "icon": "faDocker",
+      "title": "DevOps & Automation",
+      "description": "Skilled in containerized deployments, CI/CD pipeline automation, and cloud infrastructure management to ensure reliable and scalable application delivery.",
+      "skills": [
+        "AWS",
+        "Docker",
+        "Git",
+        "GitHub Actions",
+        "CI/CD",
+        "Linux",
+        "Nginx"
+      ]
+    },
+    {
+      "icon": "faPython",
+      "title": "GenAI & LLM",
+      "description": "Hands-on experience integrating large language models into real-world applications, including RAG-based chatbots and intelligent document retrieval systems.",
+      "skills": [
+        "OpenAI",
+        "LangChain",
+        "Gemini",
+        "RAG",
+        "Qdrant",
+        "Python"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "02/2026 - 05/2026",
+      "title": "Fullstack Developer",
+      "subtitle": "Solekia Limited",
+      "description": "Maintained codebase and developed APIs.",
+      "icon": "https://s3-symbol-logo.tradingview.com/solekia-limited--600.png"
+    },
+    {
+      "date": "07/2025 - 10/2025",
+      "title": "Fullstack Developer",
+      "subtitle": "TCOM CORPORATION",
+      "description": "Developed a chatbot supporting retrieval and Q&A of the company's internal documents.",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm4MGxDGA3wDJKN8MKo1h34ldX1PEAu_DYjPUKXlrzLaHehR67JEQOe2A&s=10"
+    },
+    {
+      "date": "2022 - 2026",
+      "title": "Software Engineering Student",
+      "subtitle": "Thu Duc College of Technology",
+      "description": "Started studying Software Engineering at Thu Duc College of Technology.",
+      "icon": "https://cdn.haitrieu.com/wp-content/uploads/2022/08/logo-tdc-orginal.png"
+    }
+  ],
+  "projects": [
+    {
+      "title": "iDorm Mobile",
+      "description": "A mobile application for managing student dormitories at Vietnam National University - HCMC. Integrates features such as student information management, room allocation, utilities, notifications, one-stop administrative services, and ad-bypass Wi-Fi connectivity.",
+      "link": "https://github.com/BinhDinhSoftware/idorm-docs",
+      "image": "idorm"
+    },
+    {
+      "title": "Chatbot AI TCOM",
+      "description": "An intelligent Q&A system powered by the company's internal documents, helping employees retrieve information quickly and accurately. Built with RAG technology using LangChain, OpenAI, and more.",
+      "link": "#",
+      "image": "https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2025/03/marquee-agentforce-ai-chatbot.png?w=1024"
+    },
+    {
+      "title": "Runtrail - Running Gear Store",
+      "description": "An e-commerce platform specializing in running gear and apparel.",
+      "link": "https://github.com/khang3999/RunTrail",
+      "image": "https://github.com/khang3999/RunTrail/blob/main/images/Picture7.png?raw=true"
+    },
+    {
+      "title": "TDC Event",
+      "description": "An event management website for Thu Duc College of Technology, helping students and lecturers stay updated on campus events.",
+      "link": "https://event.tdc.edu.vn/",
+      "image": "tdcevent"
+    }
+  ],
+  "footer": {
+    "author": "Nguyen Phuong Tan",
+    "templateRepo": "https://github.com/10102004tan/react-portfolio-template",
+    "github": "https://github.com/10102004tan",
+    "linkedin": "https://www.linkedin.com/in/10102004tan/"
+  }
+}
