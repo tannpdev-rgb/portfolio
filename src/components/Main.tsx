@@ -7,6 +7,7 @@ import portfolioData from '../portfolioData.json';
 
 function Main() {
   const { name, role, github, linkedin } = portfolioData.main;
+  console.log(portfolioData.main);
 
   return (
     <div className="container">
