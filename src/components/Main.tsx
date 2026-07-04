@@ -6,7 +6,7 @@ import '../assets/styles/Main.scss';
 import portfolioData from '../portfolioData.json';
 
 function Main() {
-  const { name, role, avatar, github, linkedin } = portfolioData.main;
+  const { name, role, github, linkedin } = portfolioData.main;
 
   return (
     <div className="container">
